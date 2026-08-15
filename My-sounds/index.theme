@@ -1,0 +1,8 @@
+[Sound Theme]
+Name=My-sounds
+Comment=Custom macOS System Sound Theme
+Inherits=freedesktop
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
